@@ -2,9 +2,8 @@ apply plugin: 'com.android.application'
 apply plugin: 'tinyPIC'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.2"
-
+    compileSdkVersion 30
+    buildToolsVersion "30.0.0-rc2"
     defaultConfig {
         applicationId "com.kaku.weac"
         minSdkVersion 14
